@@ -53,7 +53,10 @@ public class playingWJson {
 			//Converting back the Map to a JSON object using a class JSONObject from net.sf.json package
 			JSONObject j = new JSONObject();
 			j.putAll(jsonMap);
-			System.out.println(j.toString());	
+			//now j is the JSON object which is the final required output
+			
+			String jsonString = j.toString();
+			System.out.println(jsonString);	
 	  } 
 	  
 	  public static List<String> replacingWaala(List<String> names) {
