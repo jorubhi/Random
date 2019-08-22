@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/jorubhi/Desktop/com.fasterxml.jackson.databind.jar" sourcepath="C:/Users/jorubhi/Desktop/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jorubhi/Desktop/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
